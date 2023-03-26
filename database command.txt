@@ -1,0 +1,5 @@
+1) mysqld --console --initialize --basedir=D:\MysqlServer --datadir=D:\MysqlData	
+2) mysqld --console --datadir=D:\MysqlData
+3) mysql.exe -u root -p
+4) enter generated password -    cdac
+5) alter user 'root'@'localhost' identified by 'cdac';
